@@ -12,19 +12,22 @@ class Player {
 
 // 全局变量
 let players = [
-    new Player("陈墨", "男", 1),
-    new Player("地瓜", "男", 1),
-    new Player("无糖气泡水", "男", 1),
-    new Player("傅彬", "男", 1),
-    new Player("Echo", "男", 1),
-    new Player("WANYU", "男", 1),
-    new Player("宣言", "男", 1),
+    new Player("陈墨", "男", 2),
+    new Player("地瓜", "男", 2),
+    new Player("无糖气泡水", "男", 2),
+    new Player("傅彬", "男", 2),
+    new Player("Echo", "男", 2),
+    new Player("WANYU", "男", 2),
+    new Player("宣言", "男", 2),
+    new Player("里查德", "男", 2),
+    new Player("东吉", "男", 2),
     new Player("木子", "女", 1),
     new Player("NEEVJ", "女", 1),
     new Player("三个笑脸", "女", 1),
     new Player("梅拉德", "女", 1),
     new Player("yang", "女", 1),
     new Player("KELLY.DF", "女", 1),
+    new Player("柠檬", "女", 1),
     
 ];
 
